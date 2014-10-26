@@ -26,7 +26,7 @@ Description: 30 volunteers that take part in this research
 
 #####Feature Vector for each pattern with 3 axis signals: Column name "<Feature>-mean()-X, <Feature>-mean()-Y, <Feature>-mean()-Z, <Feature>-std()-X, <Feature>-std()-Y, <Feature>-std()-Z, "
 
-Description: Records down the mean and std deviation of the <Feature>. The features is prefix with a t which stand for Time, prefix with f which stand for frequency and end with the features type for the records. Each row of the obseration is tagged to a specific activity and individual subject.
+Description: Records down the mean and std deviation of the various features. The features is prefix with a t which stand for Time, prefix with f which stand for frequency and end with the features type for the records. Each row of the obseration is tagged to a specific activity and individual subject.
 
           * tBodyAcc-XYZ
           * tGravityAcc-XYZ
